@@ -31,12 +31,16 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![Two_red_dice_01 svg](https://github.com/shaikSameerbasha5404/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707756/6215e64d-add9-421a-b988-dd5a2f2673c6)
+
 
 ### Output:
+![Screenshot (138)](https://github.com/shaikSameerbasha5404/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707756/ce4c0273-ba29-45dc-bd85-99f84c68d42d)
+![Screenshot (139)](https://github.com/shaikSameerbasha5404/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707756/eec7a2df-5fcf-4c08-b815-8bf5f58f9872)
 
 
-### Name:
-### Register Number:
+### Name:Shaik Sameer Basha
+### Register Number:212222240093
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
