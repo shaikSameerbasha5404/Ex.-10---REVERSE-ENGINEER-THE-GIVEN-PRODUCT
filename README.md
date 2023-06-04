@@ -31,14 +31,9 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![Two_red_dice_01 svg](https://github.com/shaikSameerbasha5404/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707756/6215e64d-add9-421a-b988-dd5a2f2673c6)
-
-
+![WhatsApp Image 2023-05-27 at 15 42 58](https://github.com/shaikSameerbasha5404/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707756/021cb6d3-325b-4d48-b93e-23f239f99e07)
 ### Output:
-![Screenshot (138)](https://github.com/shaikSameerbasha5404/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707756/ce4c0273-ba29-45dc-bd85-99f84c68d42d)
-![Screenshot (139)](https://github.com/shaikSameerbasha5404/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707756/eec7a2df-5fcf-4c08-b815-8bf5f58f9872)
-
-
+![241556907-6ffefabb-79cc-4461-b719-28bdfbbec6d6](https://github.com/shaikSameerbasha5404/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707756/0bbf2e98-3ba5-4543-acd2-c79a3bc2c38b)
 ### Name:Shaik Sameer Basha
 ### Register Number:212222240093
 
